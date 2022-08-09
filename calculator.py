@@ -1,7 +1,4 @@
 from base64 import b32encode
-from html.entities import name2codepoint
-import math
-from re import M
 from tkinter import *
 
 #build screen
